@@ -1,10 +1,3 @@
-/*************************************************************************
-  Example Program: Ultrasonic HC-SR04 Distance Sensor
-  Program to read distance from ultrasonic sensor and displaying it on
-  serial monitor.
-  by Crystal Sparrow, www.crystalsparrow.com
-*************************************************************************/
-
 // Pin Numbers: Ultrasonic Sensor
 #define US1_Trig_Pin 11   // (OUTPUT) Connect to Trig pin
 #define US1_Echo_Pin 10   // (INPUT)  Connect to Echo pin
